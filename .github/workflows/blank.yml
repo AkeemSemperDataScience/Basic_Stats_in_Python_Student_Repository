@@ -52,6 +52,7 @@ jobs:
           # Copy all
           #rm -rf
           cp -r Basic_Stats_in_Python_Full_Repo/* .
+          cp -r Basic_Stats_in_Python_Full_Repo/.devcontainer .devcontainer
           #rm -f SAMP_SOL*
           rm -rf student_work
           rm -rf supplementary_workbooks
