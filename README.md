@@ -1,4 +1,4 @@
-# Basic Stats in Python Student Workbooks
+# Basic Stats in Python Student Workbooks - Updated
 
 This repository contains the workbooks that you'll use for demonstration and exercises for Akeem's stat's class. To get started with this repository:
 <ul>
