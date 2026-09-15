@@ -137,3 +137,6 @@ data/creditcard.csv
 creditcard.csv
 
 /__pycache/*
+
+~*
+reference_material/slides/~*
