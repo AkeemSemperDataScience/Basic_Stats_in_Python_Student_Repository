@@ -6,6 +6,9 @@ pandas
 polars
 scipy
 statsmodels
+pyarrow
+fastparquet
+geopandas
 
 # ─────────────────────────────────────────────
 # Visualisation
