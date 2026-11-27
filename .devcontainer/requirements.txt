@@ -9,6 +9,10 @@ statsmodels
 pyarrow
 fastparquet
 geopandas
+yfinance
+prophet
+pmdarima
+sktime
 
 # ─────────────────────────────────────────────
 # Visualisation
